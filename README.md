@@ -1,4 +1,4 @@
-# **Journal Replications**
+# **Literature Replications**
 
 ## **Overview**
 ### **1. Fricke-2016-homogeneous-banking-system**
